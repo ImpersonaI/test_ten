@@ -1,0 +1,13 @@
+C:\Users\Роман\source\repos\test_ten\test_ten\bin\Debug\netcoreapp3.1\test_ten.exe
+C:\Users\Роман\source\repos\test_ten\test_ten\bin\Debug\netcoreapp3.1\test_ten.deps.json
+C:\Users\Роман\source\repos\test_ten\test_ten\bin\Debug\netcoreapp3.1\test_ten.runtimeconfig.json
+C:\Users\Роман\source\repos\test_ten\test_ten\bin\Debug\netcoreapp3.1\test_ten.runtimeconfig.dev.json
+C:\Users\Роман\source\repos\test_ten\test_ten\bin\Debug\netcoreapp3.1\test_ten.dll
+C:\Users\Роман\source\repos\test_ten\test_ten\bin\Debug\netcoreapp3.1\test_ten.pdb
+C:\Users\Роман\source\repos\test_ten\test_ten\obj\Debug\netcoreapp3.1\test_ten.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\test_ten\test_ten\obj\Debug\netcoreapp3.1\test_ten.AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\test_ten\test_ten\obj\Debug\netcoreapp3.1\test_ten.AssemblyInfo.cs
+C:\Users\Роман\source\repos\test_ten\test_ten\obj\Debug\netcoreapp3.1\test_ten.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\test_ten\test_ten\obj\Debug\netcoreapp3.1\test_ten.dll
+C:\Users\Роман\source\repos\test_ten\test_ten\obj\Debug\netcoreapp3.1\test_ten.pdb
+C:\Users\Роман\source\repos\test_ten\test_ten\obj\Debug\netcoreapp3.1\test_ten.genruntimeconfig.cache
